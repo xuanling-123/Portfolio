@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Power BI, Excel
 
 ## Education
-- B.S., Chemical Engineering with Minor in Management | National University of Singapore (NUS) (_Aug 2019 - Dec 2023_)
+- B.S., Chemical Engineering with Minor in Management | National University of Singapore (_Aug 2019 - Dec 2023_)
 - Awarded NUS Merit Scholarship
 
 ## Work Experience
